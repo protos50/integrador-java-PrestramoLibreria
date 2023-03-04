@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Docente
+comment0.text=\r\n\ Docente\ que\ retira\ libros,\ informa\ si\ es\ responsable\ y\ agrega\ d\u00EDas\ de\r\n\ pr\u00E9stamos.\r\n\ \r\n\ @author\ (Micaela\ Soto)\r\n\ @version\ (12/11/2022)\r\n
+comment1.params=p_dniSocio\ p_nombre\ p_area
+comment1.target=Docente(int,\ java.lang.String,\ java.lang.String)
+comment2.params=p_area
+comment2.target=void\ setArea(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getArea()
+comment4.params=
+comment4.target=boolean\ esResponsable()
+comment4.text=\r\n\ Es\ responsable\ cuando\ nunca\ tuvo\ un\ pr\u00E9stamo\ vencido.\r\n
+comment5.params=
+comment5.target=java.lang.String\ soyDeLaClase()
+comment6.params=p_dias
+comment6.target=void\ agregarDiasDePrestamos(int)
+comment6.text=\r\n\ Adiciona\ d\u00EDas\ de\ pr\u00E9stamo\ si\ es\ responsable\r\n
+numComments=7

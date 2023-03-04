@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Estudiante
+comment0.text=\r\n\ Estudiante\ que\ sobreescribe\ puedePedir()\ porque\ le\ agrega\ la\ condici\u00F3n\ del\r\n\ l\u00EDmite\ de\ 3\ libros.\r\n\ \r\n\ @author\ (Micaela\ Soto)\r\n\ @version\ (12/11/2022)\r\n
+comment1.params=p_dniSocio\ p_nombre\ p_carrera
+comment1.target=Estudiante(int,\ java.lang.String,\ java.lang.String)
+comment2.params=p_carrera
+comment2.target=void\ setCarrera(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getCarrera()
+comment4.params=
+comment4.target=boolean\ puedePedir()
+comment4.text=\r\n\ Puede\ pedir\ prestado\ un\ libro\ s\u00F3lo\ si\ no\ tiene\ m\u00E1s\ de\ 3\ libros\ en\ su\ poder\ y\r\n\ si\ no\ tiene\ ning\u00FAn\ libro\ vencido\ (20\ d\u00EDas\ despu\u00E9s\ de\ la\ fecha\ de\ retiro).\r\n
+comment5.params=
+comment5.target=java.lang.String\ soyDeLaClase()
+numComments=6

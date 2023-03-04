@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=GestionBiblioteca
+comment1.params=Args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Muestra\ animaci\u00F3n,\ crea\ biblioteca\ y\ solicita\ ejecuci\u00F3n\ del\ m\u00E9todo\ que\n\ muestra\ el\ men\u00FA.\n
+comment2.params=biblioteca1
+comment2.target=void\ menuPrincipal(Biblioteca)
+comment2.text=\n\ Instancia\ objetos\ libro,\ docente\ y\ estudiante\ y\ solicita\ la\ ejecuci\u00F3n\ de\ los\n\ submen\u00FAs\:\ socios,\ libros\ y\ pr\u00E9stamos.\n
+comment3.params=p_inicio\ p_final
+comment3.target=int\ preguntar(int,\ int)
+comment4.params=
+comment4.target=int\ preguntar2()
+comment5.params=biblioteca1
+comment5.target=void\ gestionSocios(Biblioteca)
+comment5.text=\n\ Alta\ y\ baja\ de\ socios,\ emite\ listado\ de\ todos\ los\ registrados\ con\ la\ cantidad\n\ por\ tipo,\ muestra\ datos\ de\ cierto\ socio\ y\ los\ docentes\ responsables.\n
+comment6.params=biblioteca1
+comment6.target=void\ gestionPrestamos(Biblioteca)
+comment6.text=\n\ Presta\ y\ devuelve\ libros,\ muestra\ los\ pr\u00E9stamos\ vencidos\ y\ el\ registro\n\ hist\u00F3rico\ de\ pr\u00E9stamos\ de\ un\ socio\ y\ libro\ espec\u00EDficos.\n
+comment7.params=biblioteca1
+comment7.target=void\ gestionLibros(Biblioteca)
+comment7.text=\n\ Carga\ y\ remueve\ libros,\ emite\ lista\ de\ los\ prestados\ y\ muestra\ que\ socio\n\ tiene\ en\ su\ poder\ determinado\ libro.\n
+comment8.params=
+comment8.target=void\ pressAnyKeyToContinue()
+numComments=9
